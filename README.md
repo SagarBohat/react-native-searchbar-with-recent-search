@@ -4,6 +4,7 @@ This repository contains a React Native project that has been created for the pu
 # Getting Started
 
 To run this project locally, follow these steps:
+
 	1	Clone this repository.
 	2	Install dependencies: npm install.
   4 Install dependencies for iOS : npx pod-install ios or cd ios && pod install 
