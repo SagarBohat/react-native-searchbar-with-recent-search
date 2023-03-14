@@ -1,5 +1,5 @@
 # react-native-searchbar-with-recent-search
-This repository contains a React Native project that has been created for the purpose of demonstrating the search functionality along with recent search history.This is a sample React Native project that demonstrates the basic structure of a mobile app built with React Native. This app was created with the help of the React Native CLI.
+This repository contains a React Native project that has been created for the purpose of demonstrating the search functionality along with recent search history.This app was created with the help of the React Native CLI.
 
 # Getting Started
 
