@@ -7,7 +7,7 @@ To run this project locally, follow these steps:
 
 	1	Clone this repository.
 	2	Install dependencies: npm install.
-  4 Install dependencies for iOS : npx pod-install ios or cd ios && pod install 
+  	3 	Install dependencies for iOS : npx pod-install ios or cd ios && pod install 
 	4	Run the app on an iOS simulator: npx react-native run-ios
 	5	Run the app on an Android emulator:  npx react-native run-android
   
@@ -15,6 +15,7 @@ To run this project locally, follow these steps:
   
  #  Project Structure
 The project is organized into the following directories:
+
 	•	android: Contains the Android-specific files and configuration.
 	•	ios: Contains the iOS-specific files and configuration.
 	•	src: Contains the source code for the app, including the React components and application logic.
@@ -25,12 +26,12 @@ The project is organized into the following directories:
  # Contributing
 If you would like to contribute to this project, please follow these steps:
 
-Fork this repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push your changes to your fork.
-Open a pull request and describe your changes.
+- Fork this repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them.
+- Push your changes to your fork.
+- Open a pull request and describe your changes.
 
 
 # License
-MIT license
+- MIT license
