@@ -5,7 +5,7 @@ This repository contains a React Native project that has been created for the pu
 
 To run this project locally, follow these steps:
 
-	1	Clone this repository.
+	1	Clone this repository : https://github.com/SagarBohat/react-native-searchbar-with-recent-search.git
 	2	Install dependencies: npm install.
   	3 	Install dependencies for iOS : npx pod-install ios or cd ios && pod install 
 	4	Run the app on an iOS simulator: npx react-native run-ios
